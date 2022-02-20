@@ -1,0 +1,9 @@
+package simpli.assignment;
+
+import java.util.Scanner;
+
+public class PrinFiveNumbersFromUser {
+	
+	
+
+}

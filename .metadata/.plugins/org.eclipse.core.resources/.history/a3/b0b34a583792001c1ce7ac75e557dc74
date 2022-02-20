@@ -1,0 +1,12 @@
+package simpli.assignment;
+
+import java.util.Scanner;
+
+public class PrinFiveNumbersFromUser {
+	
+	public static void main(String[] args) 
+	{
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the how many numbers you want to print");
+	}
+}
