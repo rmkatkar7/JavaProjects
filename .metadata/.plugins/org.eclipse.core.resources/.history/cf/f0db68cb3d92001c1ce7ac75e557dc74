@@ -1,9 +1,0 @@
-package simpli.assignment;
-
-public class FindBiggestNumber {
-	
-	public static void main(String[] args) {
-		
-	}
-
-}

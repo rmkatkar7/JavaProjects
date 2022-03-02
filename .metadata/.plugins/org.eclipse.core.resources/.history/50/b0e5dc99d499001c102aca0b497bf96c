@@ -1,0 +1,14 @@
+package practice.java.tq;
+
+import java.util.Scanner;
+
+public class DisplayDays {
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		Scanner sc= new Scanner(System.in);
+		
+		System.out.println("Numbers between 1 to 7");
+	}
+}

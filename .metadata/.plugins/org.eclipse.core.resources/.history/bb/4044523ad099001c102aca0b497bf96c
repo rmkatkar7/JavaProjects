@@ -1,0 +1,19 @@
+package practice.java.tq;
+
+import java.util.Scanner;
+
+public class Calculator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String input = "CalFun";
+		
+		Scanner sc=sc.nextInt();
+		
+		switch(input) 
+		{
+		case "Addition":
+			System.out.println("Addition :");
+		}
+	}
+}

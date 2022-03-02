@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IfStatement.java&apos; to &apos;SimpliLearn/src/practice.java.tq&apos;&#x0D;&#x0A;- Original project: &apos;SimpliLearn&apos;&#x0D;&#x0A;- Destination element: &apos;SimpliLearn/src/practice.java.tq&apos;&#x0D;&#x0A;- Original element: &apos;simpli.assignment.IfStatement.java&apos;" description="Copy compilation unit" destination="/src&lt;practice.java.tq" element1="/src&lt;simpli.assignment{IfStatement.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1646183238926" units="1" version="1.0"/>
+</session>
